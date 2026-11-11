@@ -1,0 +1,6 @@
+{
+  "name": "University Think Tank & CMS Platform",
+  "description": "Bilingual university think tank platform inspired by TUM Think Tank, featuring research labs, policy briefs, expert directory, publications, events, and an interactive Admin CMS.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
